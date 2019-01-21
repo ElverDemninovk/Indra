@@ -1,0 +1,14 @@
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\bin\Debug\netcoreapp2.1\IndraCore.deps.json
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\bin\Debug\netcoreapp2.1\IndraCore.runtimeconfig.json
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\bin\Debug\netcoreapp2.1\IndraCore.runtimeconfig.dev.json
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\bin\Debug\netcoreapp2.1\IndraCore.dll
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\bin\Debug\netcoreapp2.1\IndraCore.pdb
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.csprojAssemblyReference.cache
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.csproj.CoreCompileInputs.cache
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.RazorAssemblyInfo.cache
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.RazorAssemblyInfo.cs
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.AssemblyInfoInputs.cache
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.AssemblyInfo.cs
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.RazorTargetAssemblyInfo.cache
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.dll
+C:\Users\pl-Elver\source\repos\IndraCore\IndraCore\obj\Debug\netcoreapp2.1\IndraCore.pdb
